@@ -1,10 +1,10 @@
-# One-Word Engineering Domain Names (146,623)
+# One-Word Engineering Domain Names (149,281)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-146%2C623%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-149%2C281%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 145,684 one-word engineering domain names spread across 506 different TLDs, with a median asking price of $546. It includes both mainstream extensions and niche TLDs, giving founders and investors a wide range of pricing and positioning options. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **146,623 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **149,281 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 146,623 domains · **Median ask:** $525.03 · **High-demand under $2,500:** 813
+**Public extract:** 1,000 rows · **Live catalog:** 149,281 domains · **Median ask:** $517.08 · **High-demand under $2,500:** 813
 
 **Last updated:** 2026-08-11
 **Canonical page:** `https://unique.domains/domains/sector/engineering`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| model.accountants | available | $43.99     | —             | high           | low    | 5      | name.com         |
-| model.college     | resell    | $29.99     | —             | high           | low    | 5      | Namecheap        |
-| out.tech          | premium   | $1,562.50  | $6,250        | high           | low    | 3      | name.com         |
-| model.airforce    | available | $103.99    | $103.99       | high           | low    | 5      | namesilo         |
-| model.miami       | resell    | $22.99     | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| gear.tech         | premium   | $781.25    | —             | high           | low    | 4      | name.com         |
-| model.associates  | available | $21.99     | —             | high           | low    | 5      | name.com         |
-| analysis.io       | resell    | $71,472.50 | $59.99        | high           | low    | 8      | Sav.com, LLC     |
-| line.tech         | premium   | $1,562.50  | —             | high           | medium | 4      | name.com         |
-| model.auto        | available | $1,999.99  | $2,199        | high           | low    | 5      | namesilo         |
-| gear.engineer     | resell    | —          | —             | high           | low    | 4      | Dynadot Inc      |
-| math.tech         | premium   | $1,562.50  | $6,250        | high           | medium | 4      | name.com         |
-| model.bargains    | available | $21.99     | —             | high           | low    | 5      | name.com         |
-| civil.tech        | resell    | —          | —             | medium         | high   | 5      | One.com A/S      |
-| model.accountant  | premium   | $437.50    | —             | high           | low    | 5      | name.com         |
-| model.bike        | available | $14.99     | —             | high           | low    | 5      | name.com         |
-| model.adult       | resell    | —          | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| model.actor       | premium   | $78.54     | $78.54        | high           | low    | 5      | namesilo         |
-| model.bingo       | available | $14.99     | —             | high           | low    | 5      | name.com         |
-| model.app         | resell    | —          | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                     |
+| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------- |
+| model.accountants | available | $43.99     | —             | high           | low    | 5      | name.com                                      |
+| model.college     | resell    | $29.99     | —             | high           | low    | 5      | Namecheap                                     |
+| out.tech          | premium   | $1,562.50  | $6,250        | high           | low    | 3      | name.com                                      |
+| model.airforce    | available | $103.99    | $103.99       | high           | low    | 5      | namesilo                                      |
+| model.miami       | resell    | $22.99     | —             | high           | low    | 5      | GoDaddy.com, LLC                              |
+| gear.tech         | premium   | $781.25    | —             | high           | low    | 4      | name.com                                      |
+| model.associates  | available | $21.99     | —             | high           | low    | 5      | name.com                                      |
+| analysis.io       | resell    | $71,472.50 | $59.99        | high           | low    | 8      | Sav.com, LLC                                  |
+| model.accountant  | premium   | $437.50    | —             | high           | low    | 5      | name.com                                      |
+| model.auto        | available | $1,999.99  | $2,199        | high           | low    | 5      | namesilo                                      |
+| gear.cloud        | resell    | —          | —             | high           | low    | 4      | XIAMEN CHINASOURCE INTERNET SERVICE CO., LTD. |
+| model.actor       | premium   | $78.54     | $78.54        | high           | low    | 5      | namesilo                                      |
+| model.bz          | available | $25        | —             | high           | low    | 5      | name.com                                      |
+| civil.tech        | resell    | —          | —             | medium         | high   | 5      | One.com A/S                                   |
+| model.archi       | premium   | $118.80    | $118.80       | high           | low    | 5      | namesilo                                      |
+| model.car         | available | $1,999.99  | $2,199        | high           | low    | 5      | namesilo                                      |
+| model.app         | resell    | —          | —             | high           | low    | 5      | GoDaddy.com, LLC                              |
+| model.attorney    | premium   | $3,125     | —             | high           | low    | 5      | name.com                                      |
+| model.cars        | available | $1,999.99  | $2,199        | high           | low    | 5      | namesilo                                      |
+| model.business    | resell    | —          | —             | high           | low    | 5      | Porkbun LLC                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 146,623 live domains                       |
+| 1,000-row public sample | 149,281 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 813 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
