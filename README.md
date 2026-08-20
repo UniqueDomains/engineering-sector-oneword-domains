@@ -16,7 +16,7 @@ This selection covers 145,684 one-word engineering domain names spread across 50
 
 **Public extract:** 1,000 rows · **Live catalog:** 162,788 domains · **Median ask:** $484.69 · **High-demand under $2,500:** 802
 
-**Last updated:** 2026-08-18
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/sector/engineering`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| model.accountants | available | $43.99     | —             | high           | low    | 5      | name.com         |
-| model.college     | resell    | $29.99     | —             | high           | low    | 5      | Namecheap        |
-| out.tech          | premium   | $1,562.50  | $6,250        | high           | low    | 3      | name.com         |
-| model.airforce    | available | $103.99    | $103.99       | high           | low    | 5      | namesilo         |
-| model.miami       | resell    | $22.99     | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| gear.tech         | premium   | $781.25    | —             | high           | low    | 4      | name.com         |
-| model.associates  | available | $21.99     | —             | high           | low    | 5      | name.com         |
-| analysis.io       | resell    | $71,472.50 | $59.99        | high           | low    | 8      | Sav.com, LLC     |
-| line.tech         | premium   | $1,562.50  | —             | high           | medium | 4      | name.com         |
-| model.auto        | available | $1,999.99  | $2,199        | high           | low    | 5      | namesilo         |
-| gear.engineer     | resell    | —          | —             | high           | low    | 4      | Dynadot Inc      |
-| math.tech         | premium   | $1,562.50  | $6,250        | high           | medium | 4      | name.com         |
-| model.bargains    | available | $21.99     | —             | high           | low    | 5      | name.com         |
-| civil.tech        | resell    | —          | —             | medium         | low    | 5      | GoDaddy.com, LLC |
-| model.accountant  | premium   | $437.50    | —             | high           | low    | 5      | name.com         |
-| model.bike        | available | $14.99     | —             | high           | low    | 5      | name.com         |
-| model.adult       | resell    | —          | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| model.actor       | premium   | $78.54     | $78.54        | high           | low    | 5      | namesilo         |
-| model.bingo       | available | $14.99     | —             | high           | low    | 5      | name.com         |
-| model.app         | resell    | —          | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                     |
+| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------- |
+| civil.archi       | available | $14.98     | $132.98       | low            | low    | 5      | namecheap                                     |
+| model.college     | resell    | $29.99     | —             | high           | low    | 5      | Namecheap                                     |
+| out.tech          | premium   | $1,562.50  | $6,250        | high           | low    | 3      | name.com                                      |
+| model.accountants | available | $43.99     | —             | high           | low    | 5      | name.com                                      |
+| model.miami       | resell    | $22.99     | —             | high           | low    | 5      | GoDaddy.com, LLC                              |
+| gear.tech         | premium   | $781.25    | —             | high           | low    | 4      | name.com                                      |
+| model.airforce    | available | $103.99    | $103.99       | high           | low    | 5      | namesilo                                      |
+| analysis.io       | resell    | $71,472.50 | $59.99        | high           | low    | 8      | Sav.com, LLC                                  |
+| line.tech         | premium   | $1,562.50  | —             | high           | medium | 4      | name.com                                      |
+| model.associates  | available | $21.99     | —             | high           | low    | 5      | name.com                                      |
+| gear.cloud        | resell    | —          | —             | high           | low    | 4      | XIAMEN CHINASOURCE INTERNET SERVICE CO., LTD. |
+| math.tech         | premium   | $1,562.50  | $6,250        | high           | medium | 4      | name.com                                      |
+| model.auto        | available | $1,999.99  | $2,199        | high           | low    | 5      | namesilo                                      |
+| gear.engineer     | resell    | —          | —             | high           | low    | 4      | Dynadot Inc                                   |
+| model.accountant  | premium   | $437.50    | —             | high           | low    | 5      | name.com                                      |
+| model.bargains    | available | $21.99     | —             | high           | low    | 5      | name.com                                      |
+| civil.tech        | resell    | —          | —             | medium         | low    | 5      | GoDaddy.com, LLC                              |
+| model.actor       | premium   | $78.54     | $78.54        | high           | low    | 5      | namesilo                                      |
+| model.bike        | available | $14.99     | —             | high           | low    | 5      | name.com                                      |
+| model.adult       | resell    | —          | —             | high           | low    | 5      | GoDaddy.com, LLC                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Engineering Domain Names*. Version 2026-08-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Engineering Domain Names*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
