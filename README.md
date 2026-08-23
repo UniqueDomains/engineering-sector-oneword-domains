@@ -82,7 +82,7 @@ print(df.head())
 | civil.ngo         | available | $16.99     | $16.99        | low            | low    | 5      | name.com                                      |
 | model.adult       | resell    | —          | —             | high           | low    | 5      | GoDaddy.com, LLC                              |
 | model.actor       | premium   | $78.54     | $78.54        | high           | low    | 5      | namesilo                                      |
-| civil.photos      | available | $8.98      | $40.98        | low            | low    | 5      | namecheap                                     |
+| model.accountants | available | $43.99     | —             | high           | low    | 5      | name.com                                      |
 | model.app         | resell    | —          | —             | high           | low    | 5      | GoDaddy.com, LLC                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
