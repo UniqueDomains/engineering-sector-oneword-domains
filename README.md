@@ -16,7 +16,7 @@ This selection covers 145,684 one-word engineering domain names spread across 50
 
 **Public extract:** 1,000 rows · **Live catalog:** 165,365 domains · **Median ask:** $478.11 · **High-demand under $2,500:** 795
 
-**Last updated:** 2026-08-22
+**Last updated:** 2026-08-24
 **Canonical page:** `https://unique.domains/domains/sector/engineering`
 **Best for:** founders, investors, studios
 
@@ -67,22 +67,22 @@ print(df.head())
 | civil.archi       | available | $14.98     | $132.98       | low            | low    | 5      | namecheap                                     |
 | model.college     | resell    | $29.99     | —             | high           | low    | 5      | Namecheap                                     |
 | out.tech          | premium   | $1,562.50  | $6,250        | high           | low    | 3      | name.com                                      |
-| civil.degree      | available | $14.99     | $64.99        | low            | low    | 5      | name.com                                      |
+| model.accountants | available | $43.99     | —             | high           | low    | 5      | name.com                                      |
 | model.miami       | resell    | $22.99     | —             | high           | low    | 5      | GoDaddy.com, LLC                              |
 | gear.tech         | premium   | $781.25    | —             | high           | low    | 4      | name.com                                      |
-| civil.hiv         | available | $184.99    | $184.99       | low            | low    | 5      | name.com                                      |
+| model.airforce    | available | $103.99    | $103.99       | high           | low    | 5      | namesilo                                      |
 | analysis.io       | resell    | $71,472.50 | $59.99        | high           | low    | 8      | Sav.com, LLC                                  |
 | line.tech         | premium   | $1,562.50  | —             | high           | medium | 4      | name.com                                      |
-| civil.investments | available | $6.98      | $166.98       | low            | low    | 5      | namecheap                                     |
+| model.associates  | available | $21.99     | —             | high           | low    | 5      | name.com                                      |
 | gear.cloud        | resell    | —          | —             | high           | low    | 4      | XIAMEN CHINASOURCE INTERNET SERVICE CO., LTD. |
 | civil.cyou        | premium   | $384       | $768          | low            | low    | 5      | namesilo                                      |
-| civil.melbourne   | available | $44.98     | $53.98        | low            | low    | 5      | namecheap                                     |
+| model.auto        | available | $1,999.99  | $2,199        | high           | low    | 5      | namesilo                                      |
 | civil.tech        | resell    | —          | —             | medium         | low    | 5      | GoDaddy.com, LLC                              |
 | model.accountant  | premium   | $437.50    | —             | high           | low    | 5      | name.com                                      |
-| civil.ngo         | available | $16.99     | $16.99        | low            | low    | 5      | name.com                                      |
+| model.bargains    | available | $21.99     | —             | high           | low    | 5      | name.com                                      |
 | model.adult       | resell    | —          | —             | high           | low    | 5      | GoDaddy.com, LLC                              |
 | model.actor       | premium   | $78.54     | $78.54        | high           | low    | 5      | namesilo                                      |
-| model.accountants | available | $43.99     | —             | high           | low    | 5      | name.com                                      |
+| model.bike        | available | $14.99     | —             | high           | low    | 5      | name.com                                      |
 | model.app         | resell    | —          | —             | high           | low    | 5      | GoDaddy.com, LLC                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Engineering Domain Names*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Engineering Domain Names*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
