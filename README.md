@@ -14,9 +14,9 @@ This selection covers 145,684 one-word engineering domain names spread across 50
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **171,445 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 171,445 domains · **Median ask:** $466.31 · **High-demand under $2,500:** 794
+**Public extract:** 1,000 rows · **Live catalog:** 171,445 domains · **Median ask:** $466.23 · **High-demand under $2,500:** 794
 
-**Last updated:** 2026-09-07
+**Last updated:** 2026-09-08
 **Canonical page:** `https://unique.domains/domains/sector/engineering`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| civil.ag         | available | $89       | $141.99       | low            | low    | 5      | name.com                                                  |
-| civil.agency     | resell    | —         | —             | low            | low    | 5      | Sav.com, LLC - 49                                         |
-| civil.blog       | premium   | $640      | $2,660        | low            | low    | 5      | namesilo                                                  |
-| civil.dog        | available | $5.98     | $86.98        | low            | low    | 5      | namecheap                                                 |
-| civil.gallery    | resell    | —         | —             | low            | low    | 5      | GoDaddy.com, LLC                                          |
-| civil.boston     | premium   | $242      | $21.24        | low            | low    | 5      | namesilo                                                  |
-| civil.giving     | available | $5.99     | $40.99        | low            | low    | 5      | name.com                                                  |
-| civil.world      | resell    | —         | —             | low            | low    | 5      | DNSPod, Inc.                                              |
-| civil.cricket    | premium   | $437.50   | $62.50        | low            | low    | 5      | name.com                                                  |
-| civil.industries | available | $17.49    | $65.99        | low            | low    | 5      | name.com                                                  |
-| model.codes      | resell    | —         | —             | medium         | medium | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| civil.fm         | premium   | $243.75   | $160.99       | low            | low    | 5      | name.com                                                  |
-| civil.insure     | available | $9.99     | $94.99        | low            | low    | 5      | name.com                                                  |
-| power.energy     | resell    | —         | —             | medium         | medium | 5      | GoDaddy.com, LLC                                          |
-| civil.free       | premium   | $625      | $625          | low            | low    | 5      | name.com                                                  |
-| civil.mobi       | available | $4.48     | $64.98        | low            | low    | 5      | namecheap                                                 |
-| design.solutions | resell    | —         | —             | high           | medium | 6      | Porkbun LLC                                               |
-| civil.icu        | premium   | $384      | $768          | low            | low    | 5      | namesilo                                                  |
-| civil.new        | available | $488.98   | $601.98       | low            | low    | 5      | namecheap                                                 |
-| driven.cloud     | resell    | —         | —             | medium         | low    | 6      | Dynadot, LLC                                              |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| civil.adult      | available | $69.98    | $166.98       | low            | low    | 5      | namecheap        |
+| systems.xxx      | resell    | $154.98   | —             | low            | low    | 7      | GoDaddy.com, LLC |
+| civil.build      | premium   | $1,875    | $1,875        | low            | low    | 5      | name.com         |
+| civil.apartments | available | $19.99    | $83.99        | low            | low    | 5      | name.com         |
+| civil.nyc        | resell    | —         | —             | low            | low    | 5      | GoDaddy.com, LLC |
+| civil.dealer     | premium   | $2,015    | $2,600        | low            | low    | 5      | namecheap        |
+| civil.barcelona  | available | $38.98    | $38.98        | low            | low    | 5      | namecheap        |
+| civil.website    | resell    | —         | —             | low            | low    | 5      | Spaceship, Inc.  |
+| civil.fans       | premium   | $325      | $650          | low            | low    | 5      | namecheap        |
+| civil.bayern     | available | $34.99    | $34.99        | low            | low    | 5      | namesilo         |
+| model.agency     | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC |
+| civil.fun        | premium   | $312.50   | $1,250        | low            | low    | 5      | name.com         |
+| civil.beer       | available | $1.98     | $43.98        | low            | low    | 5      | namecheap        |
+| model.dev        | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| civil.inc        | premium   | $2,015    | $2,600        | low            | low    | 5      | namecheap        |
+| civil.broker     | available | $11.98    | $47.98        | low            | low    | 5      | namecheap        |
+| trade.solutions  | resell    | —         | —             | high           | medium | 5      | Porkbun LLC      |
+| civil.living     | premium   | $91       | $130          | low            | low    | 5      | namecheap        |
+| civil.business   | available | $3.98     | $25.98        | low            | low    | 5      | namecheap        |
+| design.express   | resell    | —         | —             | high           | medium | 6      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Engineering Domain Names*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Engineering Domain Names*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
