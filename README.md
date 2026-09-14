@@ -1,10 +1,10 @@
-# One-Word Engineering Domain Names (180,620)
+# One-Word Engineering Domain Names (181,065)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-180%2C620%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-181%2C065%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 145,684 one-word engineering domain names spread across 506 different TLDs, with a median asking price of $546. It includes both mainstream extensions and niche TLDs, giving founders and investors a wide range of pricing and positioning options. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **180,620 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **181,065 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 180,620 domains · **Median ask:** $448.91 · **High-demand under $2,500:** 776
+**Public extract:** 1,000 rows · **Live catalog:** 181,065 domains · **Median ask:** $448.28 · **High-demand under $2,500:** 772
 
-**Last updated:** 2026-09-13
+**Last updated:** 2026-09-14
 **Canonical page:** `https://unique.domains/domains/sector/engineering`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| civil.careers     | available | $28.98    | $89.98        | low            | low    | 5      | namecheap            |
-| civil.bet         | resell    | —         | —             | low            | low    | 5      | Sav.com, LLC - 46    |
-| civil.company     | premium   | $15.34    | $15.34        | low            | low    | 5      | namesilo             |
-| civil.clothing    | available | $19.99    | $46.99        | low            | low    | 5      | name.com             |
-| civil.ink         | resell    | —         | —             | low            | low    | 5      | UM Domains Pte. Ltd. |
-| civil.dad         | premium   | $311.25   | $311.25       | low            | low    | 5      | name.com             |
-| civil.courses     | available | $1.98     | $50.98        | low            | low    | 5      | namecheap            |
-| civil.live        | resell    | —         | —             | low            | low    | 5      | UM DOMAINS PTE. LTD  |
-| civil.diy         | premium   | $87.50    | $125          | low            | low    | 5      | name.com             |
-| civil.delivery    | available | $2.98     | $79.98        | low            | low    | 5      | namecheap            |
-| model.cat         | resell    | —         | —             | medium         | low    | 5      | Name SRS AB          |
-| civil.fund        | premium   | $242      | $242          | low            | low    | 5      | namesilo             |
-| civil.education   | available | $34.99    | $34.99        | low            | low    | 5      | namesilo             |
-| model.dev         | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC     |
-| civil.meme        | premium   | $437.50   | $437.50       | low            | low    | 5      | name.com             |
-| civil.energy      | available | $5.98     | $155.98       | low            | low    | 5      | namecheap            |
-| model.technology  | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.      |
-| civil.men         | premium   | $437.50   | $62.50        | low            | low    | 5      | name.com             |
-| civil.enterprises | available | $5.99     | $50.99        | low            | low    | 5      | name.com             |
-| design.express    | resell    | —         | —             | high           | medium | 6      | Porkbun LLC          |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| civil.computer      | available | $22.48    | $48.98        | low            | low    | 5      | namecheap           |
+| civil.world         | resell    | —         | —             | low            | low    | 5      | DNSPod, Inc.        |
+| civil.bid           | premium   | $437.50   | $62.50        | low            | low    | 5      | name.com            |
+| civil.dog           | available | $5.98     | $86.98        | low            | low    | 5      | namecheap           |
+| model.agency        | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC    |
+| civil.blog          | premium   | $640      | $2,660        | low            | low    | 5      | namesilo            |
+| civil.giving        | available | $5.99     | $40.99        | low            | low    | 5      | name.com            |
+| robots.construction | resell    | —         | —             | medium         | medium | 6      | united-domains GmbH |
+| civil.buzz          | premium   | $116      | $53.92        | low            | low    | 5      | namesilo            |
+| civil.immo          | available | $14.99    | $45.99        | low            | low    | 5      | name.com            |
+| scheme.xyz          | resell    | —         | —             | medium         | low    | 6      | Dynadot LLC         |
+| civil.cricket       | premium   | $437.50   | $62.50        | low            | low    | 5      | name.com            |
+| civil.insure        | available | $9.99     | $94.99        | low            | low    | 5      | name.com            |
+| system.ninja        | resell    | —         | —             | medium         | medium | 6      | Dynadot Inc         |
+| civil.dealer        | premium   | $2,015    | $2,600        | low            | low    | 5      | namecheap           |
+| civil.mobi          | available | $4.48     | $64.98        | low            | low    | 5      | namecheap           |
+| system.repair       | resell    | —         | —             | medium         | medium | 6      | GoDaddy.com, LLC    |
+| civil.esq           | premium   | $411.25   | $411.25       | medium         | low    | 5      | name.com            |
+| civil.mobile        | available | $22.98    | $26.98        | low            | low    | 5      | namecheap           |
+| designs.center      | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC - 22   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 180,620 live domains                       |
+| 1,000-row public sample | 181,065 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 776 high-demand names under $2,500         |
+| Basic exported fields   | 772 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Engineering Domain Names*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Engineering Domain Names*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
