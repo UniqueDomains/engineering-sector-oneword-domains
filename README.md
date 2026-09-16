@@ -1,10 +1,10 @@
-# One-Word Engineering Domain Names (181,080)
+# One-Word Engineering Domain Names (82,487)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-181%2C080%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-82%2C487%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 145,684 one-word engineering domain names spread across 506 different TLDs, with a median asking price of $546. It includes both mainstream extensions and niche TLDs, giving founders and investors a wide range of pricing and positioning options. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **181,080 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **82,487 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 181,080 domains · **Median ask:** $448.18 · **High-demand under $2,500:** 772
+**Public extract:** 1,000 rows · **Live catalog:** 82,487 domains · **Median ask:** $410.50 · **High-demand under $2,500:** 343
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/sector/engineering`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                     |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------- |
-| gear.engineering | available | $11.99     | —             | high           | low    | 4      | name.com                                      |
-| analysis.io      | resell    | $71,472.50 | $59.99        | high           | low    | 8      | Sav.com, LLC                                  |
-| out.tech         | premium   | $1,562.50  | $6,250        | high           | low    | 3      | name.com                                      |
-| civil.archi      | available | $14.98     | $132.98       | low            | low    | 5      | namecheap                                     |
-| gear.cloud       | resell    | —          | —             | high           | low    | 4      | XIAMEN CHINASOURCE INTERNET SERVICE CO., LTD. |
-| gear.tech        | premium   | $781.25    | —             | high           | low    | 4      | name.com                                      |
-| civil.pictures   | available | $14.99     | $18.99        | low            | low    | 5      | name.com                                      |
-| gear.engineer    | resell    | —          | —             | high           | low    | 4      | Dynadot Inc                                   |
-| line.tech        | premium   | $1,562.50  | —             | high           | medium | 4      | name.com                                      |
-| model.bike       | available | $14.99     | —             | high           | low    | 5      | name.com                                      |
-| plan.ai          | resell    | —          | —             | medium         | high   | 4      | 1API GmbH                                     |
-| math.tech        | premium   | $1,562.50  | $6,250        | high           | medium | 4      | name.com                                      |
-| model.dance      | available | $17.99     | —             | high           | low    | 5      | name.com                                      |
-| civil.tech       | resell    | —          | —             | medium         | low    | 5      | GoDaddy.com, LLC                              |
-| civil.cyou       | premium   | $384       | $768          | low            | low    | 5      | namesilo                                      |
-| model.football   | available | $19.99     | —             | high           | low    | 5      | name.com                                      |
-| model.adult      | resell    | —          | —             | high           | low    | 5      | GoDaddy.com, LLC                              |
-| civil.film       | premium   | $116       | $116          | low            | low    | 5      | namesilo                                      |
-| model.insure     | available | $9.99      | —             | high           | low    | 5      | name.com                                      |
-| model.center     | resell    | —          | —             | high           | low    | 5      | Porkbun LLC                                   |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                  |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------ |
+| design.fashion   | available | —         | —             | high           | medium | 6      | —                                          |
+| model.bike       | available | $14.99    | —             | high           | low    | 5      | name.com                                   |
+| technology.army  | resell    | $48.98    | —             | high           | low    | 10     | GoDaddy.com, LLC                           |
+| model.actor      | premium   | $78.54    | $78.54        | high           | low    | 5      | namesilo                                   |
+| model.dance      | available | $17.99    | —             | high           | low    | 5      | name.com                                   |
+| engineering.gg   | resell    | $70.98    | —             | medium         | low    | 11     | Spaceship, Inc (https://www.spaceship.com) |
+| model.autos      | premium   | $812.50   | —             | high           | low    | 5      | name.com                                   |
+| model.football   | available | $19.99    | —             | high           | low    | 5      | name.com                                   |
+| engineering.info | resell    | $34,385   | $35.99        | medium         | low    | 11     | Dynadot Inc                                |
+| model.bayern     | premium   | $291.67   | —             | high           | low    | 5      | name.com                                   |
+| model.insure     | available | $9.99     | —             | high           | low    | 5      | name.com                                   |
+| model.adult      | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                           |
+| model.boats      | premium   | $812.50   | —             | high           | low    | 5      | name.com                                   |
+| model.movie      | available | $69.99    | —             | high           | low    | 5      | name.com                                   |
+| model.center     | resell    | —         | —             | high           | low    | 5      | Porkbun LLC                                |
+| model.bond       | premium   | $376.96   | $753.92       | high           | low    | 5      | namesilo                                   |
+| model.vet        | available | $41.99    | $41.99        | high           | low    | 5      | namesilo                                   |
+| model.dev        | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                           |
+| model.camera     | premium   | $28       | $28           | high           | low    | 5      | namecheap                                  |
+| model.vote       | available | $49.99    | —             | high           | low    | 5      | name.com                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 181,080 live domains                       |
+| 1,000-row public sample | 82,487 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 772 high-demand names under $2,500         |
+| Basic exported fields   | 343 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Engineering Domain Names*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Engineering Domain Names*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
