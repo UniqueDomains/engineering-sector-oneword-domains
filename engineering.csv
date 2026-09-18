@@ -396,7 +396,6 @@ baa7a8d0-a827-4903-921c-9e4ca7ab40df,design.camera,available,,,high,medium,6,,,,
 e366f665-6cf8-4ad0-bc7c-a45821f1aafa,design.music,available,,,high,medium,6,,,,
 c748a147-78c8-47f7-8707-157e463154ac,design.hiphop,available,,,high,medium,6,,,,
 02d59c97-865c-4c6b-a523-bd7b5ef0010e,design.courses,available,,,high,medium,6,,,,
-bec6e4e0-99bc-497a-a9de-5d3d11a1cc38,design.info,resell,,,high,medium,6,InterNetX GmbH,13/07/2002 19:33,13/07/2026 19:33,
 35bd7c9c-0424-45d7-b94a-bc96824423f7,design.party,available,,,high,medium,6,,,,
 b8524600-d3a7-482b-ae64-0d1082a5f38b,design.mobi,available,,,high,medium,6,,,,
 7b26c97f-37e3-48af-af0a-6b3e8e30722b,design.contact,resell,,,high,medium,6,Porkbun LLC,09/12/2020 16:00,09/12/2025 16:00,
@@ -433,12 +432,10 @@ ffd3cdf2-05d4-4823-896a-d8243ff279d5,construction.exchange,premium,46.2,46.2,hig
 bc97d3e5-56f2-4d48-9f84-4e98ec391dfb,construction.boston,premium,2500,,high,low,12,name.com,,,
 1ef317a7-bd9a-48d9-8693-320e45dfcff2,design.group,resell,,,high,medium,6,Porkbun LLC,05/06/2016 16:17,05/06/2026 16:17,
 e365b001-8876-4d56-b260-e483396efc8e,construction.fm,available,88.99,88.99,high,low,12,namesilo,,,
-7988eb2d-4fb0-4d1f-80b2-a9c5f8f9ea3a,design.solutions,resell,,,high,medium,6,Porkbun LLC,09/09/2016 07:58,09/09/2026 07:58,
 9d27f0f8-c4fb-4cc4-9e35-96257594c51e,building.shop,premium,625,,high,low,8,name.com,,,
 00c9a244-3da0-4033-95a8-2d622986dbae,technology.tech,premium,1625,6500,high,low,10,namecheap,,,08/09/2026 02:51
 ca9b1a4a-1a6c-4449-a752-cfff5d402eaa,technology.archi,available,132.98,,high,low,10,namecheap,,,
 9306b024-83e8-4e2e-8038-f08ecae52803,engineer.tech,premium,1562.5,,high,low,8,name.com,,,
-ac8796ee-9a95-4ff0-ac0c-4897ad2e046d,technology.net,resell,,,high,low,10,"NameSilo, LLC",30/07/1997 04:00,29/07/2026 04:00,
 fc73f9da-cb49-4d85-9e83-532c69917b08,design.dance,available,17.99,,high,medium,6,name.com,,,
 3e6e942b-ccf4-4db8-a54d-889f9f01ffc8,model.technology,resell,,,high,low,5,"Spaceship, Inc.",08/09/2023 15:15,08/09/2026 15:15,
 95980cc4-ceed-4afc-88c2-ff78d0c25809,electricity.sex,available,154.98,,high,low,11,namecheap,,,
@@ -999,3 +996,6 @@ e47cf98d-b054-4b57-ae8c-ac6cb6b9789b,design.qpon,premium,640,23.54,medium,medium
 d5b4a82e-7646-48ef-972d-cc946b8cb6e1,design.deal,premium,640,640,medium,medium,6,namesilo,,,08/09/2026 12:04
 e7a8c2ec-93ea-43c7-a5a3-a89e1fd1dca8,design.blackfriday,premium,116,30.68,medium,medium,6,namesilo,,,08/09/2026 12:04
 6ca7428f-5ba0-42b0-b92b-a311326061fb,design.sale,premium,242,242,medium,medium,6,namesilo,,,08/09/2026 12:04
+7d5fd44e-f118-4dbc-bf46-5e19e456b3a4,design.bargains,premium,78.54,78.54,medium,medium,6,namesilo,,,08/09/2026 12:04
+4a816c22-7f95-4ff3-94c5-8ceb2699b28f,design.deals,premium,242,242,medium,medium,6,namesilo,,,08/09/2026 12:04
+defffde8-5ab0-46a3-959d-b59056e5f959,design.kim,available,5.98,32.98,medium,medium,6,namecheap,,,08/09/2026 12:04
