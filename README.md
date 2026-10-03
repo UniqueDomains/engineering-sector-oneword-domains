@@ -1,10 +1,10 @@
-# One-Word Engineering Domain Names (146,162)
+# One-Word Engineering Domain Names (146,987)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-146%2C162%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-146%2C987%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 145,684 one-word engineering domain names spread across 506 different TLDs, with a median asking price of $546. It includes both mainstream extensions and niche TLDs, giving founders and investors a wide range of pricing and positioning options. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **146,162 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **146,987 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 146,162 domains · **Median ask:** $303.89 · **High-demand under $2,500:** 399
+**Public extract:** 1,000 rows · **Live catalog:** 146,987 domains · **Median ask:** $303.81 · **High-demand under $2,500:** 399
 
 **Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/sector/engineering`
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 146,162 live domains                                 |
+| 1,000-row public sample | 146,987 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
 | Basic exported fields   | 399 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
