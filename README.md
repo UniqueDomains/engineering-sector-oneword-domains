@@ -1,10 +1,10 @@
-# One-Word Engineering Domain Names (163,825)
+# One-Word Engineering Domain Names (165,430)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-163%2C825%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-165%2C430%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 145,684 one-word engineering domain names spread across 506 different TLDs, with a median asking price of $546. It includes both mainstream extensions and niche TLDs, giving founders and investors a wide range of pricing and positioning options. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **163,825 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **165,430 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 163,825 domains · **Median ask:** $282.20 · **High-demand under $2,500:** 401
+**Public extract:** 1,000 rows · **Live catalog:** 165,430 domains · **Median ask:** $282.78 · **High-demand under $2,500:** 394
 
 **Last updated:** 2026-10-11
 **Canonical page:** `https://unique.domains/domains/sector/engineering`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| plan.contractors   | available | $28.15    | $28.15        | high           | medium | 4      | spaceship        |
-| engineering.info   | resell    | $34,385   | $35.99        | high           | low    | 11     | Dynadot Inc      |
-| plan.build         | premium   | $1,638.01 | $1,638.01     | high           | medium | 4      | porkbun          |
-| model.loans        | available | $15.73    | $93.35        | high           | medium | 5      | spaceship        |
-| model.app          | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
-| model.ltda         | premium   | $56.64    | $33.04        | high           | medium | 5      | namesilo         |
-| model.sarl         | available | $5.20     | $5.20         | high           | medium | 5      | cloudflare       |
-| design.academy     | resell    | —         | —             | high           | medium | 6      | eNom, LLC        |
-| model.photo        | premium   | $116      | $116          | high           | medium | 5      | namesilo         |
-| design.accountants | available | $93.35    | $93.35        | high           | medium | 6      | spaceship        |
-| design.berlin      | resell    | —         | —             | high           | medium | 6      | —                |
-| design.accountant  | premium   | $448      | $53.92        | high           | medium | 6      | namesilo         |
-| design.claims      | available | $10.55    | $51.95        | high           | medium | 6      | spaceship        |
-| design.bid         | resell    | —         | —             | high           | medium | 6      | Dynadot Inc      |
-| design.attorney    | premium   | $3,105.20 | $3,105.20     | high           | medium | 6      | spaceship        |
-| design.dating      | available | $50.20    | $50.20        | high           | medium | 6      | cloudflare       |
-| design.bike        | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc.  |
-| design.bargains    | premium   | $68.51    | $68.51        | high           | medium | 6      | spaceship        |
-| design.fitness     | available | $8.99     | $41.99        | high           | medium | 6      | namesilo         |
-| design.blue        | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc.  |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| model.associates  | available | $18.99    | $38.99        | high           | medium | 5      | namesilo         |
+| engineer.network  | resell    | $23.10    | $46.20        | high           | low    | 8      | Dynadot Inc      |
+| model.global      | premium   | $4,000.50 | $65           | high           | medium | 5      | unstoppable      |
+| model.salon       | available | $45.74    | $45.74        | high           | medium | 5      | spaceship        |
+| engineering.info  | resell    | $34,385   | $35.99        | high           | low    | 11     | Dynadot Inc      |
+| design.accountant | premium   | $448      | $53.92        | high           | medium | 6      | namesilo         |
+| design.auto       | available | $1,999.99 | $2,199        | high           | medium | 6      | namesilo         |
+| design.academy    | resell    | —         | —             | high           | medium | 6      | eNom, LLC        |
+| design.army       | premium   | $512      | $512          | high           | medium | 6      | namesilo         |
+| design.cars       | available | $1,863.20 | $2,064.20     | high           | medium | 6      | spaceship        |
+| design.bid        | resell    | —         | —             | high           | medium | 6      | Dynadot Inc      |
+| design.attorney   | premium   | $3,105.20 | $3,105.20     | high           | medium | 6      | spaceship        |
+| design.claims     | available | $10.55    | $51.95        | high           | medium | 6      | spaceship        |
+| design.biz        | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
+| design.auction    | premium   | $546.56   | $1,092.18     | high           | medium | 6      | porkbun          |
+| design.country    | available | $2,064.20 | $2,064.20     | high           | medium | 6      | spaceship        |
+| design.blue       | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc.  |
+| design.audio      | premium   | $832      | $832          | high           | medium | 6      | namesilo         |
+| design.football   | available | $25.99    | $25.99        | high           | medium | 6      | namesilo         |
+| design.business   | resell    | —         | —             | high           | medium | 6      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 163,825 live domains                                 |
+| 1,000-row public sample | 165,430 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 401 high-demand names under $2,500                   |
+| Basic exported fields   | 394 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
