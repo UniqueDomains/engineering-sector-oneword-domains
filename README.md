@@ -1,10 +1,10 @@
-# One-Word Engineering Domain Names (171,418)
+# One-Word Engineering Domain Names (171,903)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-171%2C418%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-171%2C903%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 145,684 one-word engineering domain names spread across 506 different TLDs, with a median asking price of $546. It includes both mainstream extensions and niche TLDs, giving founders and investors a wide range of pricing and positioning options. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **171,418 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **171,903 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 171,418 domains · **Median ask:** $269.27 · **High-demand under $2,500:** 363
+**Public extract:** 1,000 rows · **Live catalog:** 171,903 domains · **Median ask:** $269.14 · **High-demand under $2,500:** 364
 
-**Last updated:** 2026-10-18
+**Last updated:** 2026-10-19
 **Canonical page:** `https://unique.domains/domains/sector/engineering`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| model.lighting     | available | $8.24     | $21.62        | high           | medium | 5      | dynadot                                     |
-| engineering.info   | resell    | $34,385   | $35.99        | high           | low    | 11     | Dynadot Inc                                 |
-| model.ink          | premium   | $672.95   | $672.95       | high           | medium | 5      | spaceship                                   |
-| model.shoes        | available | $21.62    | $60.14        | high           | medium | 5      | dynadot                                     |
-| construction.farm  | resell    | $49.98    | —             | high           | low    | 12     | Spaceship, Inc.                             |
-| design.attorney    | premium   | $4,140    | $4,140        | high           | medium | 6      | namesilo                                    |
-| design.accountants | available | $90.20    | $90.20        | high           | medium | 6      | cloudflare                                  |
-| construction.xxx   | resell    | $154.98   | —             | high           | low    | 12     | namecheap                                   |
-| design.bar         | premium   | $6,210    | $6,210        | high           | medium | 6      | namesilo                                    |
-| design.auto        | available | $1,999.99 | $2,199        | high           | medium | 6      | namesilo                                    |
-| plan.finance       | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                 |
-| design.bargains    | premium   | $68.51    | $68.51        | high           | medium | 6      | spaceship                                   |
-| design.car         | available | $2,140.22 | $2,140.22     | high           | medium | 6      | dynadot                                     |
-| plan.net           | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                            |
-| design.beauty      | premium   | $832      | $832          | high           | medium | 6      | namesilo                                    |
-| design.claims      | available | $17.99    | $64.99        | high           | medium | 6      | namesilo                                    |
-| model.net          | resell    | —         | —             | high           | medium | 5      | GoDaddy Online Services Cayman Islands Ltd. |
-| design.boo         | premium   | $1,034.17 | $1,034.17     | high           | medium | 6      | spaceship                                   |
-| design.country     | available | $2,064.20 | $2,064.20     | high           | medium | 6      | spaceship                                   |
-| model.xyz          | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.                             |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| plan.engineering   | available | $50.20    | $50.20        | high           | medium | 4      | cloudflare       |
+| engineering.info   | resell    | $34,385   | $35.99        | high           | low    | 11     | Dynadot Inc      |
+| plan.archi         | premium   | $517.70   | $517.70       | high           | medium | 4      | spaceship        |
+| model.car          | available | $1,863.20 | $2,064.20     | high           | medium | 5      | spaceship        |
+| design.berlin      | resell    | —         | —             | high           | medium | 6      | —                |
+| plan.foo           | premium   | $516.67   | $516.67       | high           | medium | 4      | spaceship        |
+| model.construction | available | $31.25    | $31.25        | high           | medium | 5      | spaceship        |
+| design.bike        | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc.  |
+| plan.vision        | premium   | $78.54    | $78.54        | high           | medium | 4      | namesilo         |
+| design.accountants | available | $90.20    | $90.20        | high           | medium | 6      | cloudflare       |
+| design.biz         | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
+| model.soy          | premium   | $309.67   | $309.67       | high           | medium | 5      | spaceship        |
+| design.auto        | available | $1,999.99 | $2,199        | high           | medium | 6      | namesilo         |
+| design.blue        | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc.  |
+| design.accountant  | premium   | $362.45   | $51.95        | high           | medium | 6      | spaceship        |
+| design.car         | available | $2,140.22 | $2,140.22     | high           | medium | 6      | dynadot          |
+| design.capital     | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc.  |
+| design.army        | premium   | $512      | $512          | high           | medium | 6      | namesilo         |
+| design.cars        | available | $2,140.22 | $2,140.22     | high           | medium | 6      | dynadot          |
+| design.delivery    | resell    | —         | —             | high           | medium | 6      | IONOS SE         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 171,418 live domains                                 |
+| 1,000-row public sample | 171,903 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 363 high-demand names under $2,500                   |
+| Basic exported fields   | 364 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Engineering Domain Names*. Version 2026-10-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Engineering Domain Names*. Version 2026-10-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
