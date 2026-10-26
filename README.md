@@ -1,10 +1,10 @@
-# One-Word Engineering Domain Names (165,310)
+# One-Word Engineering Domain Names (164,779)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-165%2C310%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-164%2C779%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 145,684 one-word engineering domain names spread across 506 different TLDs, with a median asking price of $546. It includes both mainstream extensions and niche TLDs, giving founders and investors a wide range of pricing and positioning options. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **165,310 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **164,779 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 165,310 domains · **Median ask:** $275.10 · **High-demand under $2,500:** 5,657
+**Public extract:** 1,000 rows · **Live catalog:** 164,779 domains · **Median ask:** $275.91 · **High-demand under $2,500:** 6,394
 
 **Last updated:** 2026-10-25
 **Canonical page:** `https://unique.domains/domains/sector/engineering`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| plan.airforce      | available | $83       | $83           | high           | high   | 4      | spaceship        |
-| engineering.info   | resell    | $34,385   | $35.99        | high           | medium | 11     | Dynadot Inc      |
-| plan.archi         | premium   | $517.70   | $517.70       | high           | high   | 4      | spaceship        |
-| plan.engineering   | available | $16.99    | $79.99        | high           | high   | 4      | namesilo         |
-| model.fashion      | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| plan.foo           | premium   | $499.20   | $516.67       | high           | high   | 4      | unstoppable      |
-| plan.graphics      | available | $18.83    | $18.83        | high           | high   | 4      | spaceship        |
-| model.org          | resell    | —         | —             | high           | low    | 5      | Gabia, Inc.      |
-| plan.vision        | premium   | $68.51    | $68.51        | high           | high   | 4      | spaceship        |
-| plan.moda          | available | $10.92    | $34.46        | high           | high   | 4      | dynadot          |
-| design.berlin      | resell    | —         | —             | high           | high   | 6      | —                |
-| model.cyou         | premium   | $310.70   | $621.20       | high           | low    | 5      | spaceship        |
-| plan.villas        | available | $47.81    | $47.81        | high           | high   | 4      | spaceship        |
-| design.bid         | resell    | —         | —             | high           | high   | 6      | Dynadot Inc      |
-| model.foo          | premium   | $516.67   | $516.67       | high           | low    | 5      | spaceship        |
-| model.construction | available | $31.25    | $31.25        | high           | low    | 5      | spaceship        |
-| design.bike        | resell    | —         | —             | high           | high   | 6      | Spaceship, Inc.  |
-| design.accountant  | premium   | $385      | $55           | high           | high   | 6      | dynadot          |
-| design.auto        | available | $1,999.99 | $2,199        | high           | high   | 6      | namesilo         |
-| design.biz         | resell    | —         | —             | high           | high   | 6      | GoDaddy.com, LLC |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
+| plan.creditcard    | available | $125.20   | $125.20       | high           | high   | 4      | cloudflare               |
+| mechanical.digital | resell    | $2.99     | —             | high           | low    | 10     | Unstoppable Domains Inc  |
+| plan.game          | premium   | $1,729    | $1,729        | high           | high   | 4      | namesilo                 |
+| plan.engineering   | available | $16.99    | $79.99        | high           | high   | 4      | namesilo                 |
+| building.immo      | resell    | —         | —             | high           | medium | 8      | Dynadot Inc              |
+| plan.luxury        | premium   | $440      | $440          | high           | high   | 4      | dynadot                  |
+| plan.realty        | available | $99.80    | $456.98       | high           | high   | 4      | namecheap                |
+| electric.engineer  | resell    | —         | —             | high           | low    | 8      | Dynadot Inc              |
+| plan.spot          | premium   | $1,035.20 | $1,035.20     | high           | high   | 4      | spaceship                |
+| model.construction | available | $31.25    | $31.25        | high           | low    | 5      | spaceship                |
+| engineer.ai        | resell    | —         | —             | high           | low    | 8      | Dynadot Inc              |
+| plan.srl           | premium   | $50.60    | $28.04        | high           | high   | 4      | dynadot                  |
+| design.accountants | available | $23.17    | $102.47       | high           | high   | 6      | porkbun                  |
+| engineer.baby      | resell    | —         | —             | high           | low    | 8      | Dynadot Inc              |
+| plan.vision        | premium   | $68.51    | $68.51        | high           | high   | 4      | spaceship                |
+| design.auto        | available | $1,999.99 | $2,199        | high           | high   | 6      | namesilo                 |
+| engineer.bot       | resell    | —         | —             | high           | low    | 8      | Unstoppable Domains Inc. |
+| design.accountant  | premium   | $382.61   | $55.11        | high           | high   | 6      | porkbun                  |
+| design.car         | available | $1,863.20 | $2,064.20     | high           | high   | 6      | spaceship                |
+| engineer.co        | resell    | —         | —             | high           | low    | 8      | NameSilo, LLC            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 165,310 live domains                                 |
+| 1,000-row public sample | 164,779 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 5,657 high-demand names under $2,500                 |
+| Basic exported fields   | 6,394 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
